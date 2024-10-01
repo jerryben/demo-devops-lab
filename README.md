@@ -1,4 +1,3 @@
-````markdown
 # My DevOps Project Repository
 
 Welcome to my **My DevOps Project Repository**! This project showcases my skills in DevOps, cloud infrastructure, automation, and system administration. The demo includes a tech bio webpage, outlining my journey and experience in the field, as well as key configurations and workflows related to cloud infrastructure and automation.
@@ -48,11 +47,11 @@ I’m **Jeremiah Onwoh**, an IT professional with over 10 years of experience in
 ### Installation Steps
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/yourusername/devops-portfolio.git
    cd devops-portfolio
    ```
-````
 
 2. **Set up Docker**:
 
