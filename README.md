@@ -49,7 +49,7 @@ I’m **Jeremiah Onwoh**, an IT professional with over 10 years of experience in
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/devops-portfolio.git
+   git clone https://github.com/jerryben/demo-devops-labs.git
    cd devops-portfolio
    ```
 
