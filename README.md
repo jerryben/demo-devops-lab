@@ -49,8 +49,8 @@ I’m **Jeremiah Onwoh**, an IT professional with over 10 years of experience in
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/jerryben/demo-devops-labs.git
-   cd devops-portfolio
+   git clone https://github.com/jerryben/demo-devops-lab.git
+   cd demo-devops-lab
    ```
 
 2. **Set up Docker**:
