@@ -1,6 +1,6 @@
 # My DevOps Project Repository
 
-Welcome to my **My DevOps Project Repository**! This project showcases my skills in DevOps, cloud infrastructure, automation, and system administration. The demo includes a tech bio webpage, outlining my journey and experience in the field, as well as key configurations and workflows related to cloud infrastructure and automation.
+Welcome to my **My DevOps Project Repository**! This project showcases my skills in DevOps, cloud infrastructure, automation, and system administration. The project includes a tech bio webpage, outlining my journey and experience in the field, as well as key configurations and workflows related to cloud infrastructure and automation.
 
 ## Table of Contents
 
